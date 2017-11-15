@@ -4,4 +4,4 @@ Celsius and vice versa (temperature module).
 
 There are no dependencies for this package (other than pytest)
 
-![image mouseover text]https://travis-ci.org/geotera26/unitconvert.svg?branch=master
+![image mouseover text](https://travis-ci.org/geotera26/unitconvert.svg?branch=master)
